@@ -1,6 +1,11 @@
 Below is the output from running the create-react-app command that created this
 project.
 
+At the time I ran this, I had this version of node and npm installed (on Windows 10) host.
+node --version => v6.9.1
+npm --version => 3.10.8
+create-react-app => 1.3.1
+
 
 mkdir newdir
 npm init
