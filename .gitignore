@@ -9,6 +9,9 @@
 # production
 /build
 
+# IntellJ files
+/.idea
+
 # misc
 .DS_Store
 .env.local
